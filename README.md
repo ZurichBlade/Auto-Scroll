@@ -6,7 +6,7 @@ Introducing Auto Scroll – your ultimate tool for effortless content consumptio
 Plus, Auto Scroll automatically appears and hides based on whether your app is in the foreground or background, ensuring an unobtrusive experience.
 
 ## Screenshots
-![Screenshot 1](https://github.com/ZurichBlade/Stock-Android-Lock-Flash/blob/main/app_ss.png?raw=true)
+![Screenshot 1](https://github.com/ZurichBlade/Auto-Scroll/blob/main/AutoScrollSS.png?raw=true)
 
 
 ## Features
