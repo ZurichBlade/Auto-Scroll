@@ -23,7 +23,7 @@ To use this app, you need to grant AccessibilityService permission. Go to your p
 
 ## Additional Information
 - This App uses the [AccessibilityService API](https://developer.android.com/reference/android/accessibilityservice/AccessibilityService) 
-- Privacy Policy: [Link to Privacy Policy](https://zurichblade.github.io/Lock-App-Privacy-Policy/Privacy%20Policy.html)
+- Privacy Policy: [Link to Privacy Policy](https://zurichblade.github.io/Privacy-Policy/Auto%20Scroll%20Privacy%20Policy.html)
 
 
 ## Download from Play Store
