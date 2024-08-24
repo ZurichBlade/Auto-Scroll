@@ -8,6 +8,7 @@ Plus, Auto Scroll automatically appears and hides based on whether your app is i
 ## Screenshots
 ![Screenshot 1](https://github.com/ZurichBlade/Auto-Scroll/blob/main/AutoScrollSS.png?raw=true)
 
+Check out Instagram Reel: [Watch it here](https://www.instagram.com/reel/C_EFFRqsXIW/?igsh=M2xqbm5lb2xjb3Ri)
 
 ## Features
 - **Customize Scroll Interval**: Adjust how quickly the screen scrolls to match your preferences.
